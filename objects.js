@@ -1,5 +1,5 @@
 var playlist = { LDR: "White Mustang" }
 
-function updatePlaylist(playlist, '') {
-  return playlist
+function updatePlaylist(playlist, 'Lauv', 'Enemies') {
+  
 }
