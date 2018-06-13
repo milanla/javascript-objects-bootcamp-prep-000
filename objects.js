@@ -15,7 +15,7 @@ var playlist = {
   PhilOchs: "Here's to the State of Mississippi"
 }
 
-function removeFromPlaylist(playlist, Alison) {
+function removeFromPlaylist(playlist, artistName) {
   delete playlist.Alison
   
   return playlist
