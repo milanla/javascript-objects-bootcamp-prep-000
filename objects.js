@@ -1,3 +1,5 @@
 var playlist = { LDR: "White Mustang" }
 
-function updatePlaylist()
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist.
+}
