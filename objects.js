@@ -8,7 +8,13 @@ var playlist = {
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist["Phil Ochs"] = "Here's to the State of Mississippi";
 }
-  
+
+var playlist = { 
+  Alison: "Slowdive",
+  Sometimes: "My Bloody Valentine",
+  PhilOchs: "Here's to the State of Mississippi"
+}
+
 function removeFromPlaylist(playlist, Alison) {
   delete playlist.Alison
   
